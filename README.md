@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Привет! Я Папа Денди (Денис)
 
-<!--
-**papaDendy/papaDendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — начинающий специалист по **этичному хакингу и penetration testing**, развиваю фундаментальные навыки безопасности.
 
-Here are some ideas to get you started:
+🔎 Сейчас в процессе:
+- системного изучения сетевого и Linux-фундамента,
+- практики на Hack The Box, TryHackMe PortSwigger, Labex.io
+- формирования собственной методологии пентестинга.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Мои цели
+- Стать Junior Penetration Tester  
+- Понять и применять OWASP Top 10 и CIS Controls  
+- Создать портфолио real-world practice (без вреда, только в учебных средах)
+
+---
+
+## 📂 Репозитории 📌
+
+| Репозиторий        | Описание |
+|--------------------|----------|
+| `hackthebox` 		 | Учебные машины с lab-notes и write-up |
+| `tryhackme`		 | Аналогичный репозиторий под THM |
+| (будет…) 			 | Web-security Academy и др. |
+
+---
+
+## 🚀 Текущий прогресс
+
+✔ Meow (Starting Point, HTB)
+✔ Fawn (Starting Point, HTB)
+✔ Dancing (Starting Point, HTB)
+✔ Redeemer (Starting Point, HTB) 
+⚙ Далее: Tier1, etc.
+
+---
+
+## 📫 Связаться
+
+Если нужно обсудить техничку — пиши:  
+📩 email: <drpepper063@yandex.ru>  
+💬 Telegram: @papaDendy
