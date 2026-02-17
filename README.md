@@ -1,28 +1,52 @@
-# 👋 Привет! Я Папа Денди (Денис)
+# 👋 Привет, я PapaDendy (Денис)
 
-Я — начинающий специалист по **этичному хакингу и penetration testing**, развиваю фундаментальные навыки безопасности.
-
-🔎 Сейчас в процессе:
-- системного изучения сетевого и Linux-фундамента,
-- практики на Hack The Box, TryHackMe PortSwigger, Labex.io
-- формирования собственной методологии пентестинга.
+🎯 Junior Cybersecurity Enthusiast  
+🔐 Изучаю penetration testing и основы информационной безопасности  
+📚 Практикуюсь на Hack The Box  
 
 ---
 
-## 🎯 Мои цели
-- Стать Junior Penetration Tester  
-- Понять и применять OWASP Top 10 и CIS Controls  
-- Создать портфолио real-world practice (без вреда, только в учебных средах)
+## 🚀 О себе
+
+Я развиваюсь в направлении ethical hacking и penetration testing.  
+Сейчас строю прочную базу в:
+
+- Networking (TCP/IP, порты, протоколы)
+- Linux fundamentals
+- Web application basics
+- Enumeration и анализ сервисов
+- Privilege escalation
+
+Моя цель — вырасти в Junior Penetration Tester и работать в сфере offensive security.
 
 ---
 
-## 📂 Репозитории 📌
+## 🧪 Практика
 
-| Репозиторий        | Описание |
-|--------------------|----------|
-| `hackthebox` 		 | Учебные машины с lab-notes и write-up |
-| `tryhackme`		 | Аналогичный репозиторий под THM |
-| (будет…) 			 | Web-security Academy и др. |
+| Платформа | Статус |
+|-----------|--------|
+| Hack The Box | Active |
+| TryHackMe | Active |
+| Labex.io | Active |
+| PortSwigger Academy | Active |
+| Standoff Hackbase | Planned |
+| Cyberp-ed Labs | Planned |
+
+---
+
+## 📂 Учебные репозитории
+
+- 🔹 `TryHackMe` — лабораторные работы, методология, заметки
+- 🔹 `HackTheBox` — лабораторные работы, методология, заметки
+
+
+---
+
+## 📈 Текущий фокус
+
+- Улучшение навыков reconnaissance
+- Изучение misconfiguration уязвимостей
+- Формирование собственной методологии тестирования
 
 ---
 
